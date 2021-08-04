@@ -20,7 +20,7 @@ export const projects = [
   {
     title: 'SpongeBob',
     description:"SpongeBob is a Bot made in Discord.js whihc allows all users without nitro to use Nitro Emotes in a server!",
-    image: '/images/2.png',
+    image: '/images/3.png',
     tags: ['Python', 'Discord.py'],
     source: 'https://github.com/KingRain',
     visit: 'https://github.com/KingRain',
